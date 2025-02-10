@@ -26,8 +26,8 @@ Kendimi PHP, Node.js ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. �
 
 ## 📊 İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkaansari&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkaansari&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrigultekin&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrigultekin&layout=compact&theme=radical)
 
 ---
 
