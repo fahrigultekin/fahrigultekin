@@ -6,7 +6,7 @@
 
 Programlama Dilleri: C#, PHP, JavaScript
 
-Web Geliştirme: HTML, CSS, JavaScript, PHP, .NET
+Web Geliştirme: HTML, CSS, JavaScript, PHP, .NET, Java
 
 Versiyon Kontrol: Git, GitHub
 
