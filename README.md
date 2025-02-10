@@ -1,16 +1,27 @@
-## Hi there 👋
+💻 Hakkımda
 
-<!--
-**fahrigultekin/fahrigultekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Rumeli Üniversitesi Bilgisayar Programcılığı 1. sınıf öğrencisiyim.📚 Acunmedya Akademi'de C# .NET eğitimi alıyorum.🛠️ Yazılım geliştirmeye tutkuyla bağlıyım ve sürekli kendimi geliştirmeye çalışıyorum.
 
-Here are some ideas to get you started:
+🚀 Yetenekler & Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programlama Dilleri: C#, PHP, JavaScript
+
+Web Geliştirme: HTML, CSS, JavaScript, PHP, .NET
+
+Versiyon Kontrol: Git, GitHub
+
+Araçlar: Microsoft Office
+
+📂 Projeler
+
+🔹 Rumeli Haber – PHP tabanlı bir haber sitesi.🔹 Irutic E-Ticaret – PHP ile geliştirilmiş bir online alışveriş platformu.
+
+📊 GitHub İstatistikleri
+
+
+
+📫 İletişim
+
+📧 E-posta: fahri_gultekin@hotmail.com🔗 LinkedIn: www.linkedin.com/in/fahrigultekin
+
+💡 Yeni teknolojileri öğrenmeye ve keşfetmeye her zaman açığım!
