@@ -32,7 +32,7 @@ Kendimi PHP, Node.js ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. �
 ---
 
 ## 📫 Bana Ulaşın
-- 💼 **LinkedIn**: [Fahri Gültekin](https://linkedin.com/in/fahrigultekin)  
+- 💼 **LinkedIn**: [Fahri Gültekin](https://linkedin.com/in/fahrigültekin)  
 - 📷 **Instagram**: [Fahri_gultekin](https://www.instagram.com/fahri_gultekin)  
 - 📧 **E-posta**: fahri_gultekin@hotmail.com
 
