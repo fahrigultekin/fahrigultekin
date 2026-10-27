@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Fahri Gültekin GitHub Header">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5bb8b0"/>
+      <stop offset="50%" stop-color="#355fbb"/>
+      <stop offset="100%" stop-color="#080b7a"/>
+      <animate attributeName="x1" values="0%;10%;0%" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;90%;100%" dur="10s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#76d8cf" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#123f7b" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1c3672" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#081733" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#001" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)" rx="18" />
+
+  <g filter="url(#shadow)">
+    <text x="600" y="110" text-anchor="middle" fill="#ffffff" font-size="68" font-weight="700" font-family="Segoe UI, Arial, sans-serif">
+      Hi there! I'm Fahri Gültekin 👋
+    </text>
+    <text x="600" y="155" text-anchor="middle" fill="#e8f3ff" font-size="24" font-family="Segoe UI, Arial, sans-serif">
+      Software Developer • Frontend & Full-Stack Development
+    </text>
+  </g>
+
+  <circle cx="180" cy="70" r="3" fill="#d7f5ff">
+    <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="60" r="4" fill="#d7f5ff">
+    <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="960" cy="110" r="2.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M0,220 C170,180 300,245 470,215 C640,185 780,235 930,220 C1040,208 1125,220 1200,230 L1200,280 L0,280 Z" fill="url(#wave1)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,220 C170,180 300,245 470,215 C640,185 780,235 930,220 C1040,208 1125,220 1200,230 L1200,280 L0,280 Z;
+              M0,228 C180,248 345,178 492,206 C658,236 785,192 936,214 C1060,232 1128,205 1200,218 L1200,280 L0,280 Z;
+              M0,220 C170,180 300,245 470,215 C640,185 780,235 930,220 C1040,208 1125,220 1200,230 L1200,280 L0,280 Z"/>
+  </path>
+
+  <path d="M0,238 C160,260 345,208 510,228 C690,250 810,202 960,220 C1065,233 1135,225 1200,216 L1200,280 L0,280 Z" fill="url(#wave2)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,238 C160,260 345,208 510,228 C690,250 810,202 960,220 C1065,233 1135,225 1200,216 L1200,280 L0,280 Z;
+              M0,232 C150,204 340,252 530,220 C700,191 854,240 990,228 C1090,219 1140,235 1200,226 L1200,280 L0,280 Z;
+              M0,238 C160,260 345,208 510,228 C690,250 810,202 960,220 C1065,233 1135,225 1200,216 L1200,280 L0,280 Z"/>
+  </path>
+</svg>

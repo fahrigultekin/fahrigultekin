@@ -1,0 +1,30 @@
+<svg width="100%" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fahri Gültekin GitHub Footer">
+  <defs>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090b72"/>
+      <stop offset="50%" stop-color="#3766ba"/>
+      <stop offset="100%" stop-color="#68c8ba"/>
+    </linearGradient>
+    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1648" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#6bcfc4" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="#08111f" rx="18"/>
+  <path d="M0,58 C190,40 330,95 525,76 C715,57 860,90 1020,70 C1095,61 1145,56 1200,50 L1200,140 L0,140 Z" fill="url(#footerWave)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,58 C190,40 330,95 525,76 C715,57 860,90 1020,70 C1095,61 1145,56 1200,50 L1200,140 L0,140 Z;
+              M0,70 C170,95 360,45 545,69 C720,92 848,55 1010,73 C1100,82 1152,63 1200,57 L1200,140 L0,140 Z;
+              M0,58 C190,40 330,95 525,76 C715,57 860,90 1020,70 C1095,61 1145,56 1200,50 L1200,140 L0,140 Z"/>
+  </path>
+  <path d="M0,78 C150,110 336,64 535,88 C720,110 890,70 1040,84 C1115,90 1162,78 1200,72 L1200,140 L0,140 Z" fill="url(#footerWave2)">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0,78 C150,110 336,64 535,88 C720,110 890,70 1040,84 C1115,90 1162,78 1200,72 L1200,140 L0,140 Z;
+              M0,88 C180,58 360,104 542,80 C700,60 888,102 1035,88 C1120,80 1160,94 1200,86 L1200,140 L0,140 Z;
+              M0,78 C150,110 336,64 535,88 C720,110 890,70 1040,84 C1115,90 1162,78 1200,72 L1200,140 L0,140 Z"/>
+  </path>
+  <text x="600" y="36" text-anchor="middle" fill="#9cd4ff" font-size="14" font-family="Consolas, monospace">
+    Thanks for visiting my profile!
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
