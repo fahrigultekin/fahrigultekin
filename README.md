@@ -1,7 +1,8 @@
 <div align="center">
 
 
-<img src="./header.svg" alt="Fahri Gültekin - Animated Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Fahri%20Gultekin&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Frontend%20%7C%20Mobile%20Developer&descAlignY=60" width="100%" alt="Fahri Gultekin Header"/>
+
 
 
 <br/>
