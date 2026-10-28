@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Fahri Gültekin - dalgalı mavi profil başlığı" width="100%" />
+
+<img src="./header.svg" alt="Fahri Gültekin - Animated Header" width="100%" />
+
 
 <br/>
 
@@ -96,6 +98,10 @@ I'm **Fahri Gültekin**, a software developer passionate about building practica
 
 ### `Thanks for visiting my profile!` 💙
 
-<img src="./assets/footer.svg" alt="Dalgalı mavi profil altlığı" width="100%" />
+
+<div align="center">
+  <img src="./footer.svg" alt="Fahri Gültekin - Animated Footer" width="100%" />
+</div>
+
 
 </div>
