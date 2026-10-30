@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm **Fahri Gültekin**, a software developer passionate about building practical, user-focused web and mobile applications. I enjoy taking ideas from design to working products and continuously improving my engineering skills.
+I'm **Fahri Gültekin**, a software developer passionate about building practical, user-focused web and mobile applications. I enjoy taking ideas from design to working products and continuously improving my programming skills.
 
 - 🎓 **Computer Programming**, Istanbul Rumeli University (2024–2026) · **GPA: 3.54/4.00**
 - 💻 Interested in **frontend, full-stack development and mobile applications**
